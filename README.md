@@ -1,0 +1,1 @@
+# This project demonstrates the practical use of SQL in real-world retail analytics. It helps in understanding customer preferences, revenue distribution, and decision-making using structured queries.
